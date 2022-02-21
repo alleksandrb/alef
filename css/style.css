@@ -127,7 +127,6 @@ body._lock{
         transition: all 0.3s ease 0s;
         background-color: #333;
         opacity: 0.8;
-        filter: blur(0.25px);
     }
     .header__burger::before, .header__burger::after{
         content: '';
